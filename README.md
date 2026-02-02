@@ -2,7 +2,11 @@
 
 **Project Name:**  
 FAQ Bot for KREO – Team Project  
-Abhishek Chaudhary – 2301730075
+
+**Team Members:**  
+- Abhishek Chaudhary – 2301730075  
+- Udit Anand – 2301730091  
+- Moazzam Ahmed Siddique – 2301730082  
 
 ## Description
 This project is a FAQ bot developed for KREO to support their customer care system.  
