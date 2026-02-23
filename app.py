@@ -13,7 +13,7 @@ CORS(app)
 SUPABASE_URL = "https://ddjglolzfgrnegkmpyfw.supabase.co"
 SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRkamdsb2x6ZmdybmVna21weWZ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA5MTk0OTUsImV4cCI6MjA1NjQ5NTQ5NX0.W2wrjgXSBlGWOAbmfresB8pLqnQgZhe9TeKAXcK8CwI"
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
-GOOGLE_API_KEY="AIzaSyCWGgjdK3BjuEdMBrWbBLqhI6mvE-427XA"
+GOOGLE_API_KEY="API KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel(model_name="gemini-1.5-pro-latest")
 
